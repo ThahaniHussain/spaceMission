@@ -1,0 +1,3 @@
+1. We have learned how to use git and gitHub version controls(git init, git add ., git commit, git push)
+2. We have learned how to use node.js.
+3. We have learned how to project documentation.
